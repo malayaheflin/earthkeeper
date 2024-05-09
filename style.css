@@ -3,15 +3,20 @@ body {
 }
 
 .im-fell-dw-pica-regular {
-    font-family: "IM Fell DW Pica", serif;
-    font-weight: 400;
-    font-style: normal;
-    color: white;
-  }
+  font-family: "IM Fell DW Pica", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
   
-  .im-fell-dw-pica-regular-italic {
-    font-family: "IM Fell DW Pica", serif;
-    font-weight: 400;
-    font-style: italic;
-  }
+.im-fell-dw-pica-regular-italic {
+  font-family: "IM Fell DW Pica", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
   
